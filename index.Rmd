@@ -2,7 +2,7 @@
 title: "Pablo Yamild Rosiles Loeza"
 image: "Pablo.jpeg"
 links:
-  - label: LinkedIn
+  - label: '`r fontawesome::fa("font-awesome-logo-full", fill = "Dodgerblue")` Linkedin'
     url: "https://linkedin.com/pyrosilesl97/"
   - label: Twitter
     url: "https://twitter.com/PabloYamild"
