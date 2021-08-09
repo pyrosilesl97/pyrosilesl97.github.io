@@ -17,13 +17,15 @@ output:
 ---
 
 ## Bio
-paper-plane
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+I am a professional with experience in team management, scientific communication,
+innovation and technology transfer. I am a member of the fifth generation Talentum
+University and was recognized as a young leader by Shaping Horizons of the
+University of Cambridge.
+In 2018 I collaborated in the organization and logistics of the Second Latin American
+Biotechnology Leaders Summit of Allbiotech, where I later served as Co-Coordinator
+of Public Policy for that organization and attended the First Latin American
+Bioeconomy Forum in San Jose, Costa Rica.
+Currently, I am pursuing my master's degree in plant biotechnology at CINVESTAV.
 
 ## Education
 
