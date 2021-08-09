@@ -2,22 +2,22 @@
 title: "Pablo Yamild Rosiles Loeza"
 image: "Pablo.jpeg"
 links:
-  - label: '`r fontawesome::fa("font-awesome-logo-full", fill = "Dodgerblue")` Linkedin'
+  - label: '`r fontawesome::fa("linkedin", fill = "darkblue")`'
     url: "https://linkedin.com/pyrosilesl97/"
-  - label: Twitter
+  - label: '`r fontawesome::fa("twitter", fill = "Dodgerblue")`'
     url: "https://twitter.com/PabloYamild"
-  - label: GitHub
+  - label: '`r fontawesome::fa("github", fill = "darkviolet")`'
     url: "https://github.com/pyrosilesl97"
-  - label: Email
+  - label: '`r fontawesome::fa("envelope", fill = "royalblue")`'
     url: "mailto:pablo.rosiles@cinvestav.mx"
-  - label: Personal Email
+  - label: '`r fontawesome::fa("paper-plane", fill = "royalblue")`'
     url: "mailto:pyrosilesl97@gmail.com"
 output:
   postcards::trestles
 ---
- 
-## Bio
 
+## Bio
+paper-plane
 Frank Hermosillo studies neural networks and their applications at Google 
 Brain. His research focuses on differentiable network pruning approximation and 
 decentralized gradient inversion mechanics. He frequently collaborates with 
