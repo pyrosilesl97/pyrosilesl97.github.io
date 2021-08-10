@@ -5,5 +5,5 @@ library(gitcreds)
 library(usethis)
 library(fontawesome)
 
-usethis::use_github()
-
+git_commit_all('new version')
+git_push()
