@@ -35,39 +35,57 @@ Maestría en biotecnología de plantas | Agosto 2020 - Present
 Cédula Profesional: 12064286
 Ingeniería en biotecnología | Agosto 2015 - Julio 2019
 
-## Experience
+## Experiencia
 
-**Renou** | Fundador | Junio 2017 - Diciembre 2017
+**Colaborador principal ** | Biolaunch | Enero 2020 - ACTUALIDAD
+
+**Coordinador del concurso de emprendimiento** | Biolaunch |Enero 2019 - Diciembre 2019
+
+**Colaborador en el Taller de Emprendimiento** | Congreso de la Sociedad Mexicana de Biotecnología y Bioingeniería | Julio 2019
+
+**Co-coordinador de políticas públicas** | Allbiotech | Enero 2019 - Junio 2019
+
+**Tesista de licenciatura**  | Laboratorio de transformación genética de plantas CINVESTAV-Irapuato | Diciembre 2017 - Junio 2019
+
+**Colaborador** | Clubes de Ciencia México | Agosto de 2018
 
 **Allbiotech** | Logística | Marzo de 2018 - Diciembre de 2018
 
-Colaborador 
-Clubes de Ciencia México
-Agosto de 2018
+**Renou** | Fundador | Junio 2017 - Diciembre 2017
 
-Asistente de investigación 
-Laboratorio de transformación genética de plantas | CINVESTAV-Irapuato  
-Diciembre 2017 - Junio 2019
+## Publicaciones
 
-Co-coordinador de políticas públicas 
-Allbiotech
-Enero 2019 - Junio 2019
+- Herrera-Isidron, L., Valencia-Lozano, E., Rosiles-Loeza, P. Y., Robles-Hernández, M. G., Napsuciale-Heredia, A., & Cabrera-Ponce, J. L. (2021). Gene Expression Analysis of Microtubers of Potato Solanum tuberosum L. Induced in Cytokinin Containing Medium and Osmotic Stress. Plants, 10(5), 876. https://doi.org/10.3390/plants10050876
 
-Colaborador en el Taller de Emprendimiento
-Congreso de la Sociedad Mexicana de Biotecnología y Bioingeniería
-Julio 2019
+## Lenguajes extranjeros 
 
-Coordinador del concurso de emprendimiento 
-Biolaunch
-Enero 2019 - Diciembre 2019
+**Inglés** | TOEFL iBT 100
 
-Colaborador Senior 
-Biolaunch
-Enero 2020 - ACTUALIDAD
+**Alemán** | Nivel B1
 
-Cofundador
-Hardink3d | impresión 3d y modelado 
-Junio 2021 - ACTUAL
+## Cursos y diplomados 
+
+**Análisis de datos transcriptómicos de sigle cell (scRNA-seq) con R y bioconductor** | NNB-CCG & CDSB  | Agosto 2021
+
+**Recomendaciones para un retorno seguro al trabajo ante COVID-19** | IMSS | Agosto 2021
+
+**Plagio y citación** | Cinvestav | Mayo 2021
+
+**Covid-19 y estimación de parámetros en ecuaciones diferenciales ordinarias** | UNAM |Julio 2020
+
+**Introducción a la bioinformática con enfoque en bioeconomía** | ISCB Student Council | Octubre 2019
+
+**Shaping Horizons: Summit and action programme** | University of Cambridge | Mayo – Octubre 2019
+
+**Talentum Universidad** | CIDE | Junio - Diciembre 2019
+
+**Introducción a teorías feministas** | UAbierta de la Universidad de Chile | Marzo - Abril 2019
+
+**Escuela de verano en Bioinformática** | UNAM Juriquilla | Verano 2017
+
+**Verano de investigación científica** | Academia Mexicana de Ciencias & UNAM | Verano 2016
+
+## Participación en congresos 
 
 
 ## Bio
@@ -78,6 +96,10 @@ I am currently pursuing a master's degree in plant biotechnology at CINVESTAV. W
 
 
 
+RNA Society member
+Member Number: 5525
+
+
 ## Education
 
 **Cinvestav Irapuato** | Irapuato, Mex
@@ -85,6 +107,5 @@ I am currently pursuing a master's degree in plant biotechnology at CINVESTAV. W
 Master's degree in plant biotechnology | August 2020 - Present
 
 **National Polytechnic Institute** | Silao, Mex
-
 Professional License: 12064286
 Biotechnology Engineering | August 2015 - July 2019
