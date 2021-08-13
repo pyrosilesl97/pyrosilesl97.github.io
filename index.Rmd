@@ -52,7 +52,7 @@ Cédula Profesional: 12064286
 
 ## Publicaciones
 
-- Herrera-Isidron, L., Valencia-Lozano, E., Rosiles-Loeza, P. Y., Robles-Hernández, M. G., Napsuciale-Heredia, A., & Cabrera-Ponce, J. L. (2021). Gene Expression Analysis of Microtubers of Potato Solanum tuberosum L. Induced in Cytokinin Containing Medium and Osmotic Stress. Plants, 10(5), 876. https://doi.org/10.3390/plants10050876
+- Herrera-Isidron, L., Valencia-Lozano, E., **Rosiles-Loeza, P. Y.**, Robles-Hernández, M. G., Napsuciale-Heredia, A., & Cabrera-Ponce, J. L. (2021). Gene Expression Analysis of Microtubers of Potato Solanum tuberosum L. Induced in Cytokinin Containing Medium and Osmotic Stress. Plants, 10(5), 876. https://doi.org/10.3390/plants10050876
 
 ## Lenguajes extranjeros 
 

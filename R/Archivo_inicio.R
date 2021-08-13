@@ -5,5 +5,8 @@ library(gitcreds)
 library(usethis)
 library(fontawesome)
 
-gert::git_commit_all('Erase frank photo and add courses')
+gert::git_commit_all('Problems in education data')
 gert::git_push()
+
+#Para procesar el resultado en html
+rmarkdown::render("index.Rmd")
