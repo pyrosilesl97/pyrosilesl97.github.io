@@ -19,7 +19,8 @@ output:
 ---
 
 ## Biografía
-Profesional con experiencia en gestión de equipos, comunicación científica, innovación y transferencia de tecnología. Soy miembro de la quinta generación de la Talentum Universidad y fui reconocido como joven líder por Shaping Horizons de la Universidad de Cambridge. En 2018 colaboré en la organización y logística de la Segunda Cumbre de Líderes Latinoamericanos en Biotecnología de Allbiotech, donde posteriormente me desempeñé como Co-Coordinador de Políticas Públicas de dicha organización y asistí al Primer Foro Latinoamericano de Bioeconomía en San José, Costa Rica. Actualmente estoy cursando una maestría en biotecnología vegetal en el CINVESTAV. Donde trabajo en el laboratorio de RNA reg analizando marcas de cromatina en lncRNAs. 
+
+Profesional con experiencia en gestión de equipos, comunicación científica, transferencia de tecnología y genómica. Miembro de la "RNA society". Pertenecí al programa Talentum universidad y Shaping Horizons, organizado por el CIDE y la Universidad de Cambridge, respectivamente.  En 2018, colaboré en la organización y logística de la Segunda Cumbre de Líderes Latinoamericanos en Biotecnología de Allbiotech, donde posteriormente me desempeñé como Co-Coordinador de Políticas Públicas. Actualmente curso el programa de maestría en biotecnología de plantas en el Cinvestav. Donde me desempeño en el laboratorio de RNA regulatorio analizando marcas de cromatina en RNAs largos no codificantes.  
 
 
 ## Educación
