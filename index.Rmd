@@ -12,6 +12,8 @@ links:
     url: "mailto:pablo.rosiles@cinvestav.mx"
   - label: '`r fontawesome::fa("paper-plane", fill = "royalblue")`'
     url: "mailto:pyrosilesl97@gmail.com"
+  - label: '`r fontawesome::fa("orcid", fill = "green")`'
+    url: "https://orcid.org/0000-0002-4569-9076"
 output:
   postcards::trestles
 ---
