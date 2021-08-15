@@ -18,7 +18,7 @@ output:
   postcards::trestles
 ---
 
-**For english click [here](# Resume in english)
+**For english version go to the bottom 
 
 ## Biografía
 
