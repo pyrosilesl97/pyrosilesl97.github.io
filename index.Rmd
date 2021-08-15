@@ -1,6 +1,6 @@
 ---
 title: "Pablo Yamild Rosiles Loeza"
-image: "Pablo.jpeg"
+image: "Pablo.jpg"
 links:
   - label: '`r fontawesome::fa("linkedin", fill = "darkblue")`'
     url: "https://linkedin.com/pyrosilesl97/"

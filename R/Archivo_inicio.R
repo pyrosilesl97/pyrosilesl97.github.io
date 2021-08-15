@@ -10,5 +10,5 @@ library(fontawesome)
 rmarkdown::render("index.Rmd")
 
 #To push data if the files are commited
-gert::git_commit_all('Problems in education data')
+gert::git_commit_all('Cambio de foto')
 gert::git_push()
