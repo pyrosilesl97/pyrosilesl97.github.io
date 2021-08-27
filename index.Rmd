@@ -87,6 +87,8 @@ Cédula Profesional: 12064286
 
 ## Participación en congresos y reconocimientos
 
+- Colaborador en Plants & Python | Curso de Fundamentos de la Biología Vegetal Computacional en la Universidad Estatal de Michigan | https://plantsandpython.github.io/PlantsAndPython/ | 2021 
+ 
 - Torneo Virtual México debate | Torneo organizado por Instituto Nacional Electoral y la Asociación Mexicana de Debate | 2020
 
 - Análisis de la señalización de citocininas en la respuesta a estímulos ambientales para la tuberización de papa (*Solanum tuberosum L.*) en cultivo *in vitro* | Cartel en Foro PIFI | Agosto 2019
@@ -172,6 +174,8 @@ Professional License: 12064286
 - **Summer of scientific research** | Academia Mexicana de Ciencias & UNAM | Summer 2016
 
 ## Participation in congresses and acknowledgements
+
+- Collaborator in Plants & Python Course | Foundation in Computational Plant Science course at Michigan State University | | https://plantsandpython.github.io/PlantsAndPython/ | 2021 
 
 - Virtual Mexico Debate Tournament | Tournament organized by the National Electoral Institute and the Mexican Debate Association | 2020
 
