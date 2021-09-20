@@ -87,8 +87,10 @@ Cédula Profesional: 12064286
 
 ## Participación en congresos y reconocimientos
 
-- Colaborador en Plants & Python | Curso de Fundamentos de la Biología Vegetal Computacional en la Universidad Estatal de Michigan | https://plantsandpython.github.io/PlantsAndPython/ | 2021 
- 
+- Colaborador en Plants & Python | Curso de Fundamentos de la Biología Vegetal Computacional en la Universidad Estatal de Michigan | [Consulta la página aquí](https://plantsandpython.github.io/PlantsAndPython/) | 2021 
+
+- Colaborador en talent republic | [Consulta perfil aquí](https://www.talent-republic.tv/author/pablo-yamild-r/)
+
 - Torneo Virtual México debate | Torneo organizado por Instituto Nacional Electoral y la Asociación Mexicana de Debate | 2020
 
 - Análisis de la señalización de citocininas en la respuesta a estímulos ambientales para la tuberización de papa (*Solanum tuberosum L.*) en cultivo *in vitro* | Cartel en Foro PIFI | Agosto 2019
@@ -175,7 +177,9 @@ Professional License: 12064286
 
 ## Participation in congresses and acknowledgements
 
-- Collaborator in Plants & Python Course | Foundation in Computational Plant Science course at Michigan State University | | https://plantsandpython.github.io/PlantsAndPython/ | 2021 
+- Collaborator in Plants & Python Course | Foundation in Computational Plant Science course at Michigan State University | [Consult the page here](https://plantsandpython.github.io/PlantsAndPython/) | 2021 
+
+- Contributor to talent republic | [See profile here](https://www.talent-republic.tv/author/pablo-yamild-r/)
 
 - Virtual Mexico Debate Tournament | Tournament organized by the National Electoral Institute and the Mexican Debate Association | 2020
 
