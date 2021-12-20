@@ -22,7 +22,8 @@ output:
 
 ## Biografía
 
-Profesional con experiencia en gestión de equipos, comunicación científica, transferencia de tecnología y genómica. Miembro de la "RNA society". Pertenecí al programa Talentum universidad y Shaping Horizons, organizado por el CIDE y la Universidad de Cambridge, respectivamente.  En 2018, colaboré en la organización y logística de la Segunda Cumbre de Líderes Latinoamericanos en Biotecnología de Allbiotech, donde posteriormente me desempeñé como Co-Coordinador de Políticas Públicas. Actualmente curso el programa de maestría en biotecnología de plantas en el Cinvestav donde me desempeño en el laboratorio de RNA regulatorio analizando marcas de cromatina en RNAs largos no codificantes.  
+Profesional con experiencia en gestión de equipos, comunicación científica, transferencia de tecnología y genómica. Miembro de la "RNA society". 
+Pertenecí al programa Talentum universidad y Shaping Horizons, organizado por el CIDE y la Universidad de Cambridge, respectivamente. Actualmente curso el programa de maestría en biotecnología de plantas en el Cinvestav donde me desempeño en el laboratorio de RNA regulatorio analizando marcas de cromatina en RNAs largos no codificantes utilizando Python y R. 
 
 
 ## Educación
@@ -115,7 +116,8 @@ Cédula Profesional: 12064286
 # Resume in english 
 
 ## Bio
-Professional with experience in team management, scientific communication, technology transfer and genomics. Member of the "RNA society". I belonged to the Talentum university program and Shaping Horizons, organized by CIDE and Cambridge University, respectively.  In 2018, I collaborated in the organization and logistics of the Second Summit of Latin American Leaders in Biotechnology of Allbiotech, where I later served as Co-Coordinator of Public Policy. I am currently pursuing a Master's program in plant biotechnology at Cinvestav where I work in the regulatory RNA lab analyzing chromatin marks in long non-coding RNAs.  
+Professional with experience in team management, scientific communication, technology transfer and genomics. Member of the RNA society. 
+I belonged to the Talentum University programme and Shaping Horizons, organised by the CIDE and the University of Cambridge, respectively. I am currently studying for a master's degree in plant biotechnology at Cinvestav where I work in the regulatory RNA laboratory analysing chromatin marks in long non-coding RNAs using Python and R. 
 
 ## Education
 
