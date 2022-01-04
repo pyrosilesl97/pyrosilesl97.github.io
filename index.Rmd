@@ -58,6 +58,8 @@ Cédula Profesional: 12064286
 
 - Herrera-Isidron, L., Valencia-Lozano, E., **Rosiles-Loeza, P. Y.**, Robles-Hernández, M. G., Napsuciale-Heredia, A., & Cabrera-Ponce, J. L. (2021). Gene Expression Analysis of Microtubers of Potato Solanum tuberosum L. Induced in Cytokinin Containing Medium and Osmotic Stress. Plants, 10(5), 876. https://doi.org/10.3390/plants10050876
 
+- Ozment, E., Tamvacakis, A. N., Zhou, J., **Rosiles-Loeza, P. Y.**, Escobar-Hernandez, E. E., Fernandez-Valverde, S. L., & Nakanishi, N. (2021). Cnidarian hair cell development illuminates an ancient role for the class IV POU transcription factor in defining mechanoreceptor identity. Elife, 10, e74336. DOI: 10.7554/eLife.74336
+
 ## Lenguajes extranjeros 
 
 - **Inglés** | TOEFL iBT 100
@@ -152,6 +154,10 @@ Professional License: 12064286
 ## Publications
 
 - Herrera-Isidron, L., Valencia-Lozano, E., **Rosiles-Loeza, P. Y.**, Robles-Hernández, M. G., Napsuciale-Heredia, A., & Cabrera-Ponce, J. L. (2021). Gene Expression Analysis of Microtubers of Potato Solanum tuberosum L. Induced in Cytokinin Containing Medium and Osmotic Stress. Plants, 10(5), 876. https://doi.org/10.3390/plants10050876. 
+
+- Ozment, E., Tamvacakis, A. N., Zhou, J., **Rosiles-Loeza, P. Y.**, Escobar-Hernandez, E. E., Fernandez-Valverde, S. L., & Nakanishi, N. (2021). Cnidarian hair cell development illuminates an ancient role for the class IV POU transcription factor in defining mechanoreceptor identity. Elife, 10, e74336. DOI: 10.7554/eLife.74336
+
+
 
 ## Foreign languages 
 
