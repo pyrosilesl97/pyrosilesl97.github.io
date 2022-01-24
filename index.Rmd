@@ -22,8 +22,7 @@ output:
 
 ## Biografía
 
-Profesional con experiencia en gestión de equipos, comunicación científica, transferencia de tecnología y genómica. Miembro de la "RNA society". 
-Pertenecí al programa Talentum universidad y Shaping Horizons, organizado por el CIDE y la Universidad de Cambridge, respectivamente. Actualmente curso el programa de maestría en biotecnología de plantas en el Cinvestav donde me desempeño en el laboratorio de RNA regulatorio analizando marcas de cromatina en RNAs largos no codificantes utilizando Python y R. 
+Profesional con experiencia en gestión de equipos, comunicación científica, transferencia de tecnología y genómica. Pertenecí al programa Talentum universidad y Shaping Horizons, organizado por el CIDE y la Universidad de Cambridge, respectivamente. Actualmente curso el programa de maestría en biotecnología de plantas en el Cinvestav donde me desempeño en el laboratorio de RNA regulatorio analizando marcas de cromatina en RNAs largos no codificantes utilizando Python y R. 
 
 
 ## Educación
@@ -118,8 +117,7 @@ Cédula Profesional: 12064286
 # Resume in english 
 
 ## Bio
-Professional with experience in team management, scientific communication, technology transfer and genomics. Member of the RNA society. 
-I belonged to the Talentum University programme and Shaping Horizons, organised by the CIDE and the University of Cambridge, respectively. I am currently studying for a master's degree in plant biotechnology at Cinvestav where I work in the regulatory RNA laboratory analysing chromatin marks in long non-coding RNAs using Python and R. 
+Professional with experience in team management, scientific communication, technology transfer and genomics. I belonged to the Talentum University programme and Shaping Horizons, organised by the CIDE and the University of Cambridge, respectively. I am currently studying for a master's degree in plant biotechnology at Cinvestav where I work in the regulatory RNA laboratory analysing chromatin marks in long non-coding RNAs using Python and R. 
 
 ## Education
 
