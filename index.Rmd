@@ -10,7 +10,7 @@ links:
     url: "https://github.com/pyrosilesl97"
   - label: '`r fontawesome::fa("envelope", fill = "royalblue")`'
     url: "mailto:pablo.rosiles@cinvestav.mx"
-  - label: '`r fontawesome::fa("paper-plane", fill = "royalblue")`'
+  - label: '`r fontawesome::fa("envelope", fill = "darkviolet")`'
     url: "mailto:pyrosilesl97@gmail.com"
   - label: '`r fontawesome::fa("orcid", fill = "green")`'
     url: "https://orcid.org/0000-0002-4569-9076"
@@ -28,17 +28,17 @@ Profesional con experiencia en gestión de equipos, comunicación científica, t
 ## Educación
 
 ##### Maestría en Ciencias, especialidad en biotecnología de plantas | Agosto 2020 - Actualidad
-  **Cinvestav Unidad Irapuato** | Irapuato, Gto
+|   **Cinvestav Unidad Irapuato** | Irapuato, Gto
 
-  *Laboratorio de RNA regulatorio*
+|    *Laboratorio de RNA regulatorio*
 
 
 ##### Ingeniería en biotecnología | Agosto 2015 - Julio 2019
-  **Instituto Politécnico Nacional** | Silao, Gto.
+|   **Instituto Politécnico Nacional** | Silao, Gto.
 
-  *Unidad Profesional Interdisciplinaria de Ingeniería Campus Guanajuato*
+|    *Unidad Profesional Interdisciplinaria de Ingeniería Campus Guanajuato*
 
-  Cédula Profesional: 12064286
+|       Cédula Profesional: 12064286
 
 ## Experiencia
 
