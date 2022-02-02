@@ -22,19 +22,22 @@ output:
 
 ## Biografía
 
-Profesional con experiencia en gestión de equipos, comunicación científica, transferencia de tecnología y genómica. Pertenecí al programa Talentum universidad y Shaping Horizons, organizado por el CIDE y la Universidad de Cambridge, respectivamente. Actualmente curso el programa de maestría en biotecnología de plantas en el Cinvestav donde me desempeño en el laboratorio de RNA regulatorio analizando marcas de cromatina en RNAs largos no codificantes utilizando Python y R. 
+Profesional con experiencia en gestión de equipos, comunicación científica, transferencia de tecnología y análisis genómico. Pertenecí al programa Talentum universidad y Shaping Horizons, organizado por el CIDE y la Universidad de Cambridge, respectivamente. Actualmente curso el programa de maestría en biotecnología de plantas en el Cinvestav donde me desempeño en el laboratorio de ARN regulatorio analizando marcas de cromatina en ARNs largos no codificantes mediante el análisis de datos en Python y R. 
 
 
 ## Educación
 
 ##### Maestría en Ciencias, especialidad en biotecnología de plantas | Agosto 2020 - Actualidad
 **Cinvestav Unidad Irapuato** | Irapuato, Gto
+
 *Laboratorio de RNA regulatorio*
 
 
 ##### Ingeniería en biotecnología | Agosto 2015 - Julio 2019
 **Instituto Politécnico Nacional** | Silao, Gto.
+
 *Unidad Profesional Interdisciplinaria de Ingeniería Campus Guanajuato*
+
 Cédula Profesional: 12064286
 
 ## Experiencia
@@ -61,7 +64,9 @@ Cédula Profesional: 12064286
 
 ## Lenguajes extranjeros 
 
-- **Inglés** | TOEFL iBT 100
+- **Inglés** | TOEFL iBT 104
+
+ETS ID: 43DF1302
 
 - **Alemán** | Nivel B1
 
@@ -82,8 +87,6 @@ Cédula Profesional: 12064286
 - **Shaping Horizons: Summit and action programme** | University of Cambridge | Mayo – Octubre 2019
 
 - **Talentum Universidad** | CIDE | Junio - Diciembre 2019
-
-- **Introducción a teorías feministas** | UAbierta de la Universidad de Chile | Marzo - Abril 2019
 
 - **Escuela de verano en Bioinformática** | UNAM Juriquilla | Verano 2017
 
@@ -117,7 +120,7 @@ Cédula Profesional: 12064286
 # Resume in english 
 
 ## Bio
-Professional with experience in team management, scientific communication, technology transfer and genomics. I belonged to the Talentum University programme and Shaping Horizons, organised by the CIDE and the University of Cambridge, respectively. I am currently studying for a master's degree in plant biotechnology at Cinvestav where I work in the regulatory RNA laboratory analysing chromatin marks in long non-coding RNAs using Python and R. 
+Professional with experience in team management, scientific communication, technology transfer and genomic analyses. I belonged to the Talentum University programme and Shaping Horizons, organised by the CIDE and the University of Cambridge, respectively. I am currently studying for a master's degree in plant biotechnology at Cinvestav where I work in the regulatory RNA laboratory analyzing chromatin marks in long non-coding RNAs using Python and R. 
 
 ## Education
 
@@ -131,6 +134,7 @@ Professional with experience in team management, scientific communication, techn
 **Instituto Politécnico Nacional** | Silao, Gto.
 
 *Unidad Profesional Interdisciplinaria de Ingeniería Campus Guanajuato*
+
 Professional License: 12064286
 
 ## Experience
@@ -160,6 +164,9 @@ Professional License: 12064286
 ## Foreign languages 
 
 - **English** | TOEFL iBT 104
+
+ETS ID: 43DF1302
+
 
 - **German** | Level B1
 
