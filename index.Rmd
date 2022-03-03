@@ -22,23 +22,23 @@ output:
 
 ## Acerca de mí
 
-Profesional con experiencia en gestión de equipos, comunicación científica, transferencia de tecnología y análisis genómico. Pertenecí al programa Talentum universidad y Shaping Horizons, organizado por el CIDE y la Universidad de Cambridge, respectivamente. Actualmente curso el programa de maestría en biotecnología de plantas en el Cinvestav donde me desempeño en el laboratorio de ARN regulatorio analizando marcas de cromatina en ARNs largos no codificantes mediante el análisis de datos en Python y R. 
+Profesional con experiencia en programación (R, Python, Bash y C#), análisis de datos, gestión de equipos, comunicación científica, transferencia de tecnología y análisis de datos genómicos. Pertenecí al programa Talentum universidad y Shaping Horizons, organizado por el CIDE y la Universidad de Cambridge, respectivamente. Actualmente curso el programa de maestría en biotecnología de plantas en el Laboratorio Nacional de genómica para la biodiversidad del Cinvestav donde me desempeño en el laboratorio de ARN regulatorio analizando marcas de cromatina en ARNs largos no codificantes. 
 
 
 ## Educación
 
-##### Maestría en Ciencias, especialidad en biotecnología de plantas | Agosto 2020 - Actualidad
+##### Maestría en Ciencias | Agosto 2020 - Actualidad
 |   **Cinvestav Unidad Irapuato** | Irapuato, Gto
 
 |    *Laboratorio de RNA regulatorio*
-
-
+|   
+|   
 ##### Ingeniería en biotecnología | Agosto 2015 - Julio 2019
 |   **Instituto Politécnico Nacional** | Silao, Gto.
-
 |    *Unidad Profesional Interdisciplinaria de Ingeniería Campus Guanajuato*
-
 |       Cédula Profesional: 12064286
+|   
+|   
 
 ## Experiencia
 
@@ -56,19 +56,28 @@ Profesional con experiencia en gestión de equipos, comunicación científica, t
 
 - **Equipo de logística** | Allbiotech | Marzo de 2018 - Diciembre de 2018
 
+|   
+|   
+
 ## Publicaciones
 
-- Herrera-Isidron, L., Valencia-Lozano, E., **Rosiles-Loeza, P. Y.**, Robles-Hernández, M. G., Napsuciale-Heredia, A., & Cabrera-Ponce, J. L. (2021). Gene Expression Analysis of Microtubers of Potato Solanum tuberosum L. Induced in Cytokinin Containing Medium and Osmotic Stress. Plants, 10(5), 876. https://doi.org/10.3390/plants10050876
+- Herrera-Isidron, L., Valencia-Lozano, E., **Rosiles-Loeza, P. Y.**, Robles-Hernández, M. G., Napsuciale-Heredia, A., & Cabrera-Ponce, J. L. (2021). Gene Expression Analysis of Microtubers of Potato Solanum tuberosum L. Induced in Cytokinin Containing Medium and Osmotic Stress. *Plants*, 10(5), 876. https://doi.org/10.3390/plants10050876
 
-- Ozment, E., Tamvacakis, A. N., Zhou, J., **Rosiles-Loeza, P. Y.**, Escobar-Hernandez, E. E., Fernandez-Valverde, S. L., & Nakanishi, N. (2021). Cnidarian hair cell development illuminates an ancient role for the class IV POU transcription factor in defining mechanoreceptor identity. Elife, 10, e74336. DOI: 10.7554/eLife.74336
+- Ozment, E., Tamvacakis, A. N., Zhou, J., **Rosiles-Loeza, P. Y.**, Escobar-Hernandez, E. E., Fernandez-Valverde, S. L., & Nakanishi, N. (2021). Cnidarian hair cell development illuminates an ancient role for the class IV POU transcription factor in defining mechanoreceptor identity. *Elife*, 10, e74336. DOI: 10.7554/eLife.74336
+
+- VanBuren, R., Rougon-Cardoso, A., Amézquita, E., Coss-Navarrete E., Espinosa-Jaime, A.,Gonzalez-Iturbe, O., Luckie-Duque A., Mendoza-Galindo, E., Pardo , J., Rodríguez-Guerrero G., **Rosiles-Loeza, P. Y.**, Vásquez-Cruz M., Fernandez-Valverde, S., Hernandez-Hernandez, T., Palande, S., & Chitwood D. (2022). Teaching Tools in Plant Biology. Plants and Python, Coding from Scratch in the Plant Sciences. *The Plant Cell*. **Accepted, pending publication**
+
+|   
+|
 
 ## Lenguajes extranjeros 
 
-- **Inglés** | TOEFL iBT 104
-
-|    ETS ID: 43DF1302
+- **Inglés** | TOEFL iBT 104 | ETS ID: 43DF1302
 
 - **Alemán** | Nivel B1
+
+|   
+|   
 
 ## Cursos y diplomados 
 
@@ -91,6 +100,9 @@ Profesional con experiencia en gestión de equipos, comunicación científica, t
 - **Escuela de verano en Bioinformática** | UNAM Juriquilla | Verano 2017
 
 - **Verano de investigación científica** | Academia Mexicana de Ciencias & UNAM | Verano 2016
+
+|   
+| 
 
 ## Participación en congresos y reconocimientos
 
@@ -117,15 +129,19 @@ Profesional con experiencia en gestión de equipos, comunicación científica, t
 # Resume in english 
 
 ## About me
-Professional with experience in team management, scientific communication, technology transfer and genomic analyses. I belonged to the Talentum University programme and Shaping Horizons, organised by the CIDE and the University of Cambridge, respectively. I am currently studying for a master's degree in plant biotechnology at Cinvestav where I work in the regulatory RNA laboratory analyzing chromatin marks in long non-coding RNAs using Python and R. 
+
+Professional with experience in programming (R, Python, Bash and C#), data analysis, team management, scientific communication, technology transfer and genomic data analysis. I belonged to the Talentum university program and Shaping Horizons, organized by CIDE and Cambridge University, respectively. I am currently in the master's program in Plant Biotechnology at the National Laboratory of Genomics for Biodiversity at Cinvestav where I work in the regulatory RNA laboratory analyzing chromatin marks in long non-coding RNAs.
+
 
 ## Education
 
-##### Master of Science, specialization in plant biotechnology | August 2020 - Present
+##### Master of Science | August 2020 - Present
 |   **Cinvestav Unidad Irapuato** | Irapuato, Gto.
 
 |    *Regulatory RNA laboratory*
 
+|   
+|   
 
 ##### Biotechnology Engineering | August 2015 - July 2019
 |   **Instituto Politécnico Nacional** | Silao, Gto.
@@ -133,6 +149,9 @@ Professional with experience in team management, scientific communication, techn
 |    *Unidad Profesional Interdisciplinaria de Ingeniería Campus Guanajuato*
 
 |    Professional License: 12064286
+
+|   
+|  
 
 ## Experience
 
@@ -150,22 +169,29 @@ Professional with experience in team management, scientific communication, techn
 
 - **Logistics team** | Allbiotech | March 2018 - December 2018
 
+|   
+|  
+
 ## Publications
 
-- Herrera-Isidron, L., Valencia-Lozano, E., **Rosiles-Loeza, P. Y.**, Robles-Hernández, M. G., Napsuciale-Heredia, A., & Cabrera-Ponce, J. L. (2021). Gene Expression Analysis of Microtubers of Potato Solanum tuberosum L. Induced in Cytokinin Containing Medium and Osmotic Stress. Plants, 10(5), 876. https://doi.org/10.3390/plants10050876. 
+- Herrera-Isidron, L., Valencia-Lozano, E., **Rosiles-Loeza, P. Y.**, Robles-Hernández, M. G., Napsuciale-Heredia, A., & Cabrera-Ponce, J. L. (2021). Gene Expression Analysis of Microtubers of Potato Solanum tuberosum L. Induced in Cytokinin Containing Medium and Osmotic Stress. *Plants*, 10(5), 876. https://doi.org/10.3390/plants10050876. 
 
-- Ozment, E., Tamvacakis, A. N., Zhou, J., **Rosiles-Loeza, P. Y.**, Escobar-Hernandez, E. E., Fernandez-Valverde, S. L., & Nakanishi, N. (2021). Cnidarian hair cell development illuminates an ancient role for the class IV POU transcription factor in defining mechanoreceptor identity. Elife, 10, e74336. DOI: 10.7554/eLife.74336
+- Ozment, E., Tamvacakis, A. N., Zhou, J., **Rosiles-Loeza, P. Y.**, Escobar-Hernandez, E. E., Fernandez-Valverde, S. L., & Nakanishi, N. (2021). Cnidarian hair cell development illuminates an ancient role for the class IV POU transcription factor in defining mechanoreceptor identity. *Elife*, 10, e74336. DOI: 10.7554/eLife.74336
+
+- VanBuren, R., Rougon-Cardoso, A., Amézquita, E., Coss-Navarrete E., Espinosa-Jaime, A.,Gonzalez-Iturbe, O., Luckie-Duque A., Mendoza-Galindo, E., Pardo , J., Rodríguez-Guerrero G., **Rosiles-Loeza, P. Y.**, Vásquez-Cruz M., Fernandez-Valverde, S., Hernandez-Hernandez, T., Palande, S., & Chitwood D. (2022). Teaching Tools in Plant Biology. Plants and Python, Coding from Scratch in the Plant Sciences. *The Plant Cell*. **Accepted, pending publication.**
 
 
+|   
+|   
 
 ## Foreign languages 
 
-- **English** | TOEFL iBT 104
+- **English** | TOEFL iBT 104 | ETS ID: 43DF1302
 
-|   ETS ID: 43DF1302
+- **German** | Nivel B1
 
-
-- **German** | Level B1
+|   
+|   
 
 ## Courses and diplomas 
 
@@ -190,6 +216,9 @@ Professional with experience in team management, scientific communication, techn
 - **Summer School in Bioinformatics** | UNAM Juriquilla | Summer 2017
 
 - **Summer of scientific research** | Academia Mexicana de Ciencias & UNAM | Summer 2016
+
+|   
+|  
 
 ## Participation in congresses and acknowledgements
 
