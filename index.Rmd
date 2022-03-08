@@ -83,7 +83,7 @@ Profesional con experiencia en programación (R, Python, Bash y C#), análisis d
 
 - **Science diplomacy** | The bridge biofoundry & Alliance for science  | Septiembre 2021
 
-- **Análisis de datos transcriptómicos de sigle cell (scRNA-seq) con R y bioconductor** | NNB-CCG & CDSB  | Agosto 2021
+- **Análisis de datos transcriptómicos de single cell (scRNA-seq) con R y bioconductor** | NNB-CCG & CDSB  | Agosto 2021
 
 - **Recomendaciones para un retorno seguro al trabajo ante COVID-19** | IMSS | Agosto 2021
 
@@ -197,7 +197,7 @@ Professional with experience in programming (R, Python, Bash and C#), data analy
 
 - **Science diplomacy** | The bridge biofoundry & Alliance for science  | September 2021
 
-- **Analysis of sigle cell transcriptomic data (scRNA-seq) with R and bioconductor** | NNB-CCG & CDSB | August 2021
+- **Analysis of single cell transcriptomic data (scRNA-seq) with R and bioconductor** | NNB-CCG & CDSB | August 2021
 
 - **Recommendations for a safe return to work before COVID-19** | IMSS | August 2021
 
