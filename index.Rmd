@@ -22,7 +22,7 @@ output:
 
 ## Acerca de mí
 
-Profesional con experiencia en programación (R, Python, Bash y C#), análisis de datos, gestión de equipos, comunicación científica, transferencia de tecnología y análisis de datos genómicos. Pertenecí al programa Talentum universidad y Shaping Horizons, organizado por el CIDE y la Universidad de Cambridge, respectivamente. Actualmente curso el programa de maestría en biotecnología de plantas en el Laboratorio Nacional de genómica para la biodiversidad del Cinvestav donde me desempeño en el laboratorio de ARN regulatorio analizando marcas de cromatina en ARNs largos no codificantes. 
+Profesional con experiencia en programación (R, Python, Bash y C#), análisis de datos, gestión de equipos, comunicación científica y análisis de datos genómicos. Pertenecí al programa Talentum universidad y Shaping Horizons, organizado por el CIDE y la Universidad de Cambridge, respectivamente. Actualmente curso el programa de maestría en biotecnología de plantas en el Laboratorio Nacional de genómica para la biodiversidad del Cinvestav donde me desempeño en el laboratorio de ARN regulatorio analizando marcas de cromatina en ARNs largos no codificantes. Estoy interesado en el estudio de la evolución de los vertebrados y la simbiosis entre organismos, donde los organismos marinos ofrecen un modelo de estudio excepcional. 
 
 
 ## Educación
@@ -130,7 +130,7 @@ Profesional con experiencia en programación (R, Python, Bash y C#), análisis d
 
 ## About me
 
-Professional with experience in programming (R, Python, Bash and C#), data analysis, team management, scientific communication, technology transfer and genomic data analysis. I belonged to the Talentum university program and Shaping Horizons, organized by CIDE and Cambridge University, respectively. I am currently in the master's program in Plant Biotechnology at the National Laboratory of Genomics for Biodiversity at Cinvestav where I work in the regulatory RNA laboratory analyzing chromatin marks in long non-coding RNAs.
+Professional with experience in programming (R, Python, Bash and C#), data analysis, team management, scientific communication, technology transfer and genomic data analysis. I belonged to the Talentum university program and Shaping Horizons, organized by CIDE and Cambridge University, respectively. I am currently in the master's program in Plant Biotechnology at the National Laboratory of Genomics for Biodiversity at Cinvestav where I work in the regulatory RNA laboratory analyzing chromatin marks in long non-coding RNAs. I am interested in the study of vertebrate evolution and symbiosis between organisms, where marine organisms offer an exceptional model for study. 
 
 
 ## Education
