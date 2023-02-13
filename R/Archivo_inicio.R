@@ -7,6 +7,6 @@ rmarkdown::render("index.Rmd")
 usethis::create_github_token()
 #Cuando haya caducado la contraseña cambiar el token y agregarlo
 
-gitcreds::gitcreds_set()
+gitcreds::gitcreds_set("https://github.com/pyrosilesl97/pyrosilesl97.github.io")
 
 
