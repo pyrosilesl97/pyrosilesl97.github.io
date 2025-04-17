@@ -18,19 +18,19 @@
       display: inline-block;
     }
     .btn {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 0.5em;
-      padding: 0.5em 1em;
-      min-width: 150px;
-      border: 1px solid #333;
-      border-radius: 5px;
-      background-color: white;
-      cursor: pointer;
-      transition: background-color 0.2s;
-      font-size: 1rem;
-    }
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px; /* Igual ancho */
+  height: 48px; /* Igual alto */
+  padding: 0;
+  margin: 0 4px;
+  border: 1px solid #ccc;
+  border-radius: 50%; /* Forma redonda */
+  background-color: white;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
     .container {
       max-width: 900px;
       margin: auto;
@@ -57,14 +57,18 @@
     .section {
       margin-bottom: 2rem;
     }
-    .btn img.icon {
-      width: 1.2em;
-      height: 1.2em;
-      vertical-align: middle;
-    }
-    .btn:hover {
-      background-color: #e0e0e0;
-    }
+
+
+.btn:hover {
+  background-color: #e0e0e0;
+}
+
+.btn img.icon,
+.btn svg {
+  width: 24px;
+  height: 24px;
+}
+
     ul {
       padding-left: 1.2rem;
     }
@@ -103,22 +107,29 @@
 <li class="list-inline-item">
 <a href="https://linkedin.com/pyrosilesl97/" target="_blank">
 <button class="btn" style="color: #0e76a8;" type="button">
-<svg height="16" viewbox="0 0 448 512" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M100.28 448H7.4V148.9h92.88zM53.14 107.8a53.41 53.41 0 1153.34-53.4 53.4 53.4 0 01-53.34 53.4zm394.76 340.2h-92.4V302.4c0-34.7-12.4-58.4-43.5-58.4-23.7 0-37.8 16-44 31.4-2.3 5.6-2.8 13.4-2.8 21.2V448h-92.4s1.2-270.4 0-298.1h92.4v42.3c12.3-19 34.3-46.1 83.4-46.1 60.9 0 106.6 39.8 106.6 125.4V448z"></path></svg>
-          LinkedIn
+<svg height="16" viewbox="0 0 448 512" width="16" xmlns="http://www.w3.org/2000/svg" class="icon"><path d="M100.28 448H7.4V148.9h92.88zM53.14 107.8a53.41 53.41 0 1153.34-53.4 53.4 53.4 0 01-53.34 53.4zm394.76 340.2h-92.4V302.4c0-34.7-12.4-58.4-43.5-58.4-23.7 0-37.8 16-44 31.4-2.3 5.6-2.8 13.4-2.8 21.2V448h-92.4s1.2-270.4 0-298.1h92.4v42.3c12.3-19 34.3-46.1 83.4-46.1 60.9 0 106.6 39.8 106.6 125.4V448z"></path></svg>
+          
         </button>
 </a>
 </li>
 <li class="list-inline-item">
-<a href="https://github.com/pyrosilesl97" target="_blank">
+  <a href="https://github.com/pyrosilesl97" target="_blank">
+  <button class="btn" type="button"><img alt="" class="icon" src="github_icon_custom.png"/>
+  </button>
+  </a>
+  </li>
+<li class="list-inline-item">
+<a href="https://linktr.ee/pablorosiles" target="_blank">
 <button class="btn" type="button">
-<img alt="GitHub" class="icon" src="github_icon_custom.png"/>
-          GitHub
+<img alt="" class="icon" src="link.png" class="icon"/>
+          
         </button>
 </a>
 </li>
 <li class="list-inline-item">
 <a href="https://orcid.org/0000-0002-4569-9076" target="_blank">
-<button class="btn" type="button">ORCID</button>
+<button class="btn" type="button"><img alt="" class="icon" src="ORCID.png"/>
+</button>
 </a>
 </li>
 </ul>
@@ -254,22 +265,29 @@
     <li class="list-inline-item">
     <a href="https://linkedin.com/pyrosilesl97/" target="_blank">
     <button class="btn" style="color: #0e76a8;" type="button">
-    <svg height="16" viewbox="0 0 448 512" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M100.28 448H7.4V148.9h92.88zM53.14 107.8a53.41 53.41 0 1153.34-53.4 53.4 53.4 0 01-53.34 53.4zm394.76 340.2h-92.4V302.4c0-34.7-12.4-58.4-43.5-58.4-23.7 0-37.8 16-44 31.4-2.3 5.6-2.8 13.4-2.8 21.2V448h-92.4s1.2-270.4 0-298.1h92.4v42.3c12.3-19 34.3-46.1 83.4-46.1 60.9 0 106.6 39.8 106.6 125.4V448z"></path></svg>
-              LinkedIn
+    <svg height="16" viewbox="0 0 448 512" width="16" xmlns="http://www.w3.org/2000/svg" class="icon"><path d="M100.28 448H7.4V148.9h92.88zM53.14 107.8a53.41 53.41 0 1153.34-53.4 53.4 53.4 0 01-53.34 53.4zm394.76 340.2h-92.4V302.4c0-34.7-12.4-58.4-43.5-58.4-23.7 0-37.8 16-44 31.4-2.3 5.6-2.8 13.4-2.8 21.2V448h-92.4s1.2-270.4 0-298.1h92.4v42.3c12.3-19 34.3-46.1 83.4-46.1 60.9 0 106.6 39.8 106.6 125.4V448z"></path></svg>
+              
             </button>
     </a>
     </li>
     <li class="list-inline-item">
-    <a href="https://github.com/pyrosilesl97" target="_blank">
+      <a href="https://github.com/pyrosilesl97" target="_blank">
+      <button class="btn" type="button"><img alt="" class="icon" src="github_icon_custom.png"/>
+      </button>
+      </a>
+      </li>
+    <li class="list-inline-item">
+    <a href="https://linktr.ee/pablorosiles" target="_blank">
     <button class="btn" type="button">
-    <img alt="GitHub" class="icon" src="github_icon_custom.png"/>
-              GitHub
+    <img alt="" class="icon" src="link.png" class="icon"/>
+              
             </button>
     </a>
     </li>
     <li class="list-inline-item">
     <a href="https://orcid.org/0000-0002-4569-9076" target="_blank">
-    <button class="btn" type="button">🧬 ORCID</button>
+    <button class="btn" type="button"><img alt="" class="icon" src="ORCID.png"/>
+    </button>
     </a>
     </li>
     </ul>
@@ -417,22 +435,29 @@
           <li class="list-inline-item">
           <a href="https://linkedin.com/pyrosilesl97/" target="_blank">
           <button class="btn" style="color: #0e76a8;" type="button">
-          <svg height="16" viewbox="0 0 448 512" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M100.28 448H7.4V148.9h92.88zM53.14 107.8a53.41 53.41 0 1153.34-53.4 53.4 53.4 0 01-53.34 53.4zm394.76 340.2h-92.4V302.4c0-34.7-12.4-58.4-43.5-58.4-23.7 0-37.8 16-44 31.4-2.3 5.6-2.8 13.4-2.8 21.2V448h-92.4s1.2-270.4 0-298.1h92.4v42.3c12.3-19 34.3-46.1 83.4-46.1 60.9 0 106.6 39.8 106.6 125.4V448z"></path></svg>
-                    LinkedIn
+          <svg height="16" viewbox="0 0 448 512" width="16" xmlns="http://www.w3.org/2000/svg" class="icon"><path d="M100.28 448H7.4V148.9h92.88zM53.14 107.8a53.41 53.41 0 1153.34-53.4 53.4 53.4 0 01-53.34 53.4zm394.76 340.2h-92.4V302.4c0-34.7-12.4-58.4-43.5-58.4-23.7 0-37.8 16-44 31.4-2.3 5.6-2.8 13.4-2.8 21.2V448h-92.4s1.2-270.4 0-298.1h92.4v42.3c12.3-19 34.3-46.1 83.4-46.1 60.9 0 106.6 39.8 106.6 125.4V448z"></path></svg>
+                    
                   </button>
           </a>
           </li>
           <li class="list-inline-item">
-          <a href="https://github.com/pyrosilesl97" target="_blank">
+            <a href="https://github.com/pyrosilesl97" target="_blank">
+            <button class="btn" type="button"><img alt="" class="icon" src="github_icon_custom.png"/>
+            </button>
+            </a>
+            </li>
+          <li class="list-inline-item">
+          <a href="https://linktr.ee/pablorosiles" target="_blank">
           <button class="btn" type="button">
-          <img alt="GitHub" class="icon" src="github_icon_custom.png"/>
-                    GitHub
+          <img alt="" class="icon" src="link.png" class="icon"/>
+                    
                   </button>
           </a>
           </li>
           <li class="list-inline-item">
           <a href="https://orcid.org/0000-0002-4569-9076" target="_blank">
-          <button class="btn" type="button">🧬 ORCID</button>
+          <button class="btn" type="button"><img alt="" class="icon" src="ORCID.png"/>
+          </button>
           </a>
           </li>
           </ul>
@@ -582,22 +607,29 @@
     <li class="list-inline-item">
     <a href="https://linkedin.com/pyrosilesl97/" target="_blank">
     <button class="btn" style="color: #0e76a8;" type="button">
-    <svg height="16" viewbox="0 0 448 512" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M100.28 448H7.4V148.9h92.88zM53.14 107.8a53.41 53.41 0 1153.34-53.4 53.4 53.4 0 01-53.34 53.4zm394.76 340.2h-92.4V302.4c0-34.7-12.4-58.4-43.5-58.4-23.7 0-37.8 16-44 31.4-2.3 5.6-2.8 13.4-2.8 21.2V448h-92.4s1.2-270.4 0-298.1h92.4v42.3c12.3-19 34.3-46.1 83.4-46.1 60.9 0 106.6 39.8 106.6 125.4V448z"></path></svg>
-              LinkedIn
+    <svg height="16" viewbox="0 0 448 512" width="16" xmlns="http://www.w3.org/2000/svg" class="icon"><path d="M100.28 448H7.4V148.9h92.88zM53.14 107.8a53.41 53.41 0 1153.34-53.4 53.4 53.4 0 01-53.34 53.4zm394.76 340.2h-92.4V302.4c0-34.7-12.4-58.4-43.5-58.4-23.7 0-37.8 16-44 31.4-2.3 5.6-2.8 13.4-2.8 21.2V448h-92.4s1.2-270.4 0-298.1h92.4v42.3c12.3-19 34.3-46.1 83.4-46.1 60.9 0 106.6 39.8 106.6 125.4V448z"></path></svg>
+              
             </button>
     </a>
     </li>
     <li class="list-inline-item">
-    <a href="https://github.com/pyrosilesl97" target="_blank">
+      <a href="https://github.com/pyrosilesl97" target="_blank">
+      <button class="btn" type="button"><img alt="" class="icon" src="github_icon_custom.png"/>
+      </button>
+      </a>
+      </li>
+    <li class="list-inline-item">
+    <a href="https://linktr.ee/pablorosiles" target="_blank">
     <button class="btn" type="button">
-    <img alt="GitHub" class="icon" src="github_icon_custom.png"/>
-              GitHub
+    <img alt="" class="icon" src="link.png" class="icon"/>
+              
             </button>
     </a>
     </li>
     <li class="list-inline-item">
     <a href="https://orcid.org/0000-0002-4569-9076" target="_blank">
-    <button class="btn" type="button">🧬 ORCID</button>
+    <button class="btn" type="button"><img alt="" class="icon" src="ORCID.png"/>
+    </button>
     </a>
     </li>
     </ul>
@@ -743,22 +775,29 @@
     <li class="list-inline-item">
     <a href="https://linkedin.com/pyrosilesl97/" target="_blank">
     <button class="btn" style="color: #0e76a8;" type="button">
-    <svg height="16" viewbox="0 0 448 512" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M100.28 448H7.4V148.9h92.88zM53.14 107.8a53.41 53.41 0 1153.34-53.4 53.4 53.4 0 01-53.34 53.4zm394.76 340.2h-92.4V302.4c0-34.7-12.4-58.4-43.5-58.4-23.7 0-37.8 16-44 31.4-2.3 5.6-2.8 13.4-2.8 21.2V448h-92.4s1.2-270.4 0-298.1h92.4v42.3c12.3-19 34.3-46.1 83.4-46.1 60.9 0 106.6 39.8 106.6 125.4V448z"></path></svg>
-              LinkedIn
+    <svg height="16" viewbox="0 0 448 512" width="16" xmlns="http://www.w3.org/2000/svg" class="icon"><path d="M100.28 448H7.4V148.9h92.88zM53.14 107.8a53.41 53.41 0 1153.34-53.4 53.4 53.4 0 01-53.34 53.4zm394.76 340.2h-92.4V302.4c0-34.7-12.4-58.4-43.5-58.4-23.7 0-37.8 16-44 31.4-2.3 5.6-2.8 13.4-2.8 21.2V448h-92.4s1.2-270.4 0-298.1h92.4v42.3c12.3-19 34.3-46.1 83.4-46.1 60.9 0 106.6 39.8 106.6 125.4V448z"></path></svg>
+              
             </button>
     </a>
     </li>
     <li class="list-inline-item">
-    <a href="https://github.com/pyrosilesl97" target="_blank">
+      <a href="https://github.com/pyrosilesl97" target="_blank">
+      <button class="btn" type="button"><img alt="" class="icon" src="github_icon_custom.png"/>
+      </button>
+      </a>
+      </li>
+    <li class="list-inline-item">
+    <a href="https://linktr.ee/pablorosiles" target="_blank">
     <button class="btn" type="button">
-    <img alt="GitHub" class="icon" src="github_icon_custom.png"/>
-              GitHub
+    <img alt="" class="icon" src="link.png" class="icon"/>
+              
             </button>
     </a>
     </li>
     <li class="list-inline-item">
     <a href="https://orcid.org/0000-0002-4569-9076" target="_blank">
-    <button class="btn" type="button">🧬 ORCID</button>
+    <button class="btn" type="button"><img alt="" class="icon" src="ORCID.png"/>
+    </button>
     </a>
     </li>
     </ul>
