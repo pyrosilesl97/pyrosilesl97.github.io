@@ -79,6 +79,13 @@
     [lang-block="en"] {
       display: block;
     }
+
+    @media (max-width: 640px) {
+      body { padding: 1rem; }
+      .container { padding: 1rem; }
+      .lang-buttons { text-align: left; }
+      .lang-buttons button { margin-top: 0.4rem; }
+    }
   </style>
 <script>
     function switchLang(lang) {
@@ -102,7 +109,7 @@
 <!-- English -->
 <div lang-block="en">
 <h1>Pablo Yamild Rosiles Loeza</h1>
-    <p>Updated: February 2026</p>
+    <p>Updated: May 2026</p>
 <p>Email: pyrosilesl97[at]gmail.com
 <div class="contact-icons">
 <ul class="list-inline">
@@ -123,7 +130,7 @@
 <li class="list-inline-item">
 <a href="https://linktr.ee/pablorosiles" target="_blank">
 <button class="btn" type="button">
-<img alt="" class="icon" src="link.png" class="icon"/>
+<img alt="" class="icon" src="link.png"/>
           
         </button>
 </a>
@@ -138,39 +145,39 @@
 </div>
 <div class="section">
 <h2>Professional Summary</h2>
-<p>AI-native bioinformatics engineer and full-stack developer with a multidisciplinary background in biotechnology, cloud-native systems, and production AI workflows. Experienced in building and deploying language-model-powered applications that integrate structured outputs, prompt versioning, and retrieval workflows over scientific datasets. Proven ability to translate biological problems (genomics, transcriptomics, regulatory analysis) into robust, cloud-deployed digital tools. Comfortable owning the full stack — from backend pipelines and AI integration to frontend research tools and cloud infrastructure — in fast-paced, high-autonomy environments.</p>
+<p>AI-native bioinformatics engineer and full-stack developer with a multidisciplinary background in biotechnology, cloud-native systems, and production AI workflows. Experienced in building and deploying language-model-powered applications, internal dashboards, Blazor apps, TypeScript/React frontends, and cloud services using Docker, AWS, Supabase, Vercel, Fly.io, Clerk, and Modal. Proven ability to translate biological and business problems into robust digital tools, from backend pipelines and AI integration to frontend research platforms, authentication, deployment, and cloud infrastructure in fast-paced, high-autonomy environments.</p>
 </div>
 <div class="section">
 <h2>Core Skills</h2>
 <ul>
 <li>AI-Native Development: LLM integration (OpenAI/GPT-based workflows), structured outputs, prompt engineering, prompt versioning, lightweight evaluations</li>
 <li>Language Model Productization: Retrieval over internal data, tool/function calling, latency & cost tradeoffs, monitoring and guardrails</li>
+<li>Full-Stack Development: Python (Flask/Django), C#/.NET, Blazor, JavaScript/TypeScript, React, REST APIs, internal research tools</li>
+<li>Cloud &amp; DevOps: Docker, AWS, Vercel, Fly.io, Supabase, Modal, Clerk authentication, GitHub-based deployment workflows</li>
 <li>Bioinformatics Engineering: Genomics, transcriptomics, metagenomics, RNA/DNA analysis, genome mining pipelines</li>
-<li>Full-Stack Development: Python (Flask/Django), JavaScript, React, REST APIs, internal research tools</li>
-<li>Cloud Deployment: AWS-based deployments (Cloud-native architectures); experience transferable to GCP environments</li>
 <li>Workflow Automation: Nextflow, Snakemake, reproducible scientific pipelines</li>
-<li>Data Systems: Structured enterprise data, validation layers, multi-stage processing pipelines</li>
+<li>Data Systems: SQL, structured enterprise data, validation layers, multi-stage processing pipelines</li>
 </ul>
 </div>
 <div class="section">
 <h2>Technical Tools &amp; Digital Skills</h2>
 <ul>
-<li>JavaScript, HTML, CSS, SQL, Flask App, Django, Node.js, React</li>
-<li>Git, GitHub</li>
-<li>RStudio, Jupyter, VS Code</li>
-<li>Galaxy, Bioconductor, QIIME</li>
-<li>Microsoft Office, Google Workspace</li>
-<li>Slack, Trello, Notion</li>
+<li>Languages &amp; Frameworks: Python, C#, JavaScript, TypeScript, HTML, CSS, SQL, Flask, Django, Node.js, React, Blazor</li>
+<li>Cloud &amp; Deployment: Docker, AWS, Vercel, Fly.io, Modal, Supabase, Clerk, GitHub Actions / Git-based deployment workflows</li>
+<li>Development Tools: Git, GitHub, VS Code, Jupyter, RStudio</li>
+<li>Bioinformatics Tools: Galaxy, Bioconductor, QIIME, Nextflow, Snakemake</li>
+<li>Productivity &amp; Collaboration: Microsoft Office, Google Workspace, Slack, Trello, Notion</li>
 </ul>
 </div>
 <div class="section">
 <h2>Professional Experience</h2>
 <p><strong>AI &amp; Data Analytics Specialist</strong><br/>DataCloud Technologies and Consulting | March 2025 – Present</p>
 <ul>
-<li>Built backend services and internal dashboards using JavaScript, HTML, CSS, and SQL.</li>
+<li>Built backend services, Blazor apps, and internal dashboards using C#/.NET, JavaScript/TypeScript, HTML, CSS, and SQL.</li>
 <li>Designed and deployed AI-powered backend workflows integrating LLM-based modules with structured outputs and multi-stage validation.</li>
-<li>Implemented prompt-driven processing pipelines with caching, observability, and cost-awareness considerations.</li>
-<li>Built internal research and analytics tools using Python, C#, JavaScript, SQL, and cloud-native deployment patterns.</li>
+<li>Implemented prompt-driven processing pipelines with caching, observability, cost-awareness, and production-readiness considerations.</li>
+<li>Built internal research and analytics tools using Python, C#, JavaScript/TypeScript, SQL, Docker, and cloud-native deployment patterns.</li>
+<li>Worked with modern deployment and data platforms including AWS, Supabase, Vercel, Fly.io, Clerk, and Modal.</li>
 <li>Worked with structured enterprise datasets, ensuring reliability, traceability, and production readiness of AI features.</li>
 
 </ul>
@@ -184,10 +191,11 @@
     <p><strong>Developer</strong><br/>
 Personal projects | 2023 – Present</p>
 <ul>
-  <li>Designed and developed cloud-native backend systems for custom web platforms and internal tools using Python, JavaScript, SQL, and REST APIs.</li>
-  <li>Built and deployed applications on AWS, including backend services, databases, and automated workflows.</li>
+  <li>Designed and developed cloud-native backend systems for custom web platforms and internal tools using Python, JavaScript/TypeScript, SQL, and REST APIs.</li>
+  <li>Built and deployed applications on AWS, Vercel, Fly.io, and Supabase, including backend services, databases, authentication, and automated workflows.</li>
+  <li>Containerized and deployed services with Docker and GitHub-based workflows.</li>
+  <li>Integrated third-party APIs and external services, including authentication and data platforms such as Clerk and Supabase.</li>
   <li>Implemented data ingestion, transformation, and validation pipelines for business and operational data.</li>
-  <li>Integrated third-party APIs and external services, focusing on reliability, observability, and maintainability.</li>
   <li>Led end-to-end development from requirements gathering to deployment and iteration, working directly with clients.</li>
 </ul>
 
@@ -226,7 +234,7 @@ Personal projects | 2023 – Present</p>
 <ul>
 <li>Public web pages: <a href="https://catnest-tech.com">Catnest-tech web site</a>, <a href="https://endogenomiks.com">Endogenomiks web site</a>,  
   <a href="https://canteraludica.com">Cantera Lúdica web store (using shopify)</a>, <a href="https://felumo.com">Felumo (using AWS and WordPress)</a>,
-   <a href="https://kabutomushi.mx/">Kabutomushi web site</a></li></li>
+   <a href="https://kabutomushi.mx/">Kabutomushi web site</a></li>
 <li>Contributor: <a href="https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html">Plants &amp; Python Course – Michigan State University</a></li>
 <li>Project: Renou – Presented at Entrepreneurs in Biobusiness 2017 (AGROBIOTEG)</li>
 </ul>
@@ -279,7 +287,7 @@ Personal projects | 2023 – Present</p>
 
 <div lang-block="es">
 <h1>Pablo Yamild Rosiles Loeza</h1>
-          <p>Actualizado en: febrero 2026</p>
+          <p>Actualizado en: mayo 2026</p>
 
 <p>Correo: pyrosilesl97[arroba]gmail.com 
   <div class="contact-icons">
@@ -301,7 +309,7 @@ Personal projects | 2023 – Present</p>
     <li class="list-inline-item">
     <a href="https://linktr.ee/pablorosiles" target="_blank">
     <button class="btn" type="button">
-    <img alt="" class="icon" src="link.png" class="icon"/>
+    <img alt="" class="icon" src="link.png"/>
               
             </button>
     </a>
@@ -316,7 +324,7 @@ Personal projects | 2023 – Present</p>
     </div>
     <div class="section">
       <h2>Resumen Profesional</h2>
-      <p>Ingeniero bioinformático y desarrollador full-stack con enfoque AI-native, con formación en biotecnología y experiencia en sistemas cloud y flujos de trabajo productivos con modelos de lenguaje. Experiencia construyendo y desplegando aplicaciones impulsadas por LLMs con structured outputs, versionado de prompts y recuperación sobre datasets científicos. Capacidad comprobada para traducir necesidades biológicas (genómica, transcriptómica, análisis regulatorio) en herramientas digitales robustas desplegadas en la nube. Cómodo asumiendo propiedad end-to-end: backend, integración de IA, frontend para herramientas científicas e infraestructura cloud en entornos de alta autonomía y velocidad.</p>
+      <p>Ingeniero bioinformático y desarrollador full-stack con enfoque AI-native, formación en biotecnología y experiencia en sistemas cloud, aplicaciones web y flujos productivos con modelos de lenguaje. Experiencia construyendo y desplegando aplicaciones impulsadas por LLMs, dashboards internos, apps en Blazor, frontends en TypeScript/React y servicios cloud usando Docker, AWS, Supabase, Vercel, Fly.io, Clerk y Modal. Capacidad comprobada para traducir necesidades biológicas y de negocio en herramientas digitales robustas, desde pipelines backend e integración de IA hasta frontend, autenticación, despliegue e infraestructura cloud.</p>
     </div>
     
     <div class="section">
@@ -324,11 +332,11 @@ Personal projects | 2023 – Present</p>
 <ul>
 <li>Desarrollo AI-Native: Integración de LLMs (GPT/OpenAI), structured outputs, prompt engineering, versionado de prompts, evaluaciones ligeras</li>
 <li>Productización de Modelos de Lenguaje: Retrieval sobre datos internos, tool/function calling, optimización de latencia y costos, monitoreo en producción</li>
+<li>Desarrollo Full-Stack: Python (Flask/Django), C#/.NET, Blazor, JavaScript/TypeScript, React, APIs REST, herramientas internas de investigación</li>
+<li>Cloud &amp; DevOps: Docker, AWS, Vercel, Fly.io, Supabase, Modal, autenticación con Clerk y flujos de despliegue basados en GitHub</li>
 <li>Ingeniería Bioinformática: Genómica, transcriptómica, metagenómica, análisis de RNA/DNA, pipelines de minería genómica</li>
-<li>Desarrollo Full-Stack: Python (Flask/Django), JavaScript, React, APIs REST, herramientas internas de investigación</li>
-<li>Despliegue en Nube: Arquitecturas cloud-native en AWS (transferibles a GCP)</li>
 <li>Automatización Científica: Nextflow, Snakemake, pipelines reproducibles</li>
-<li>Sistemas de Datos: Procesamiento multietapa, validación estructurada, trazabilidad</li>
+<li>Sistemas de Datos: SQL, procesamiento multietapa, validación estructurada y trazabilidad</li>
 </ul>
 
     </div>
@@ -336,12 +344,11 @@ Personal projects | 2023 – Present</p>
     <div class="section">
       <h2>Herramientas Técnicas y Habilidades Digitales</h2>
       <ul>
-        <li>JavaScript, HTML, CSS, SQL</li>
-        <li>Git, GitHub</li>
-        <li>RStudio, Jupyter, VS Code</li>
-        <li>Galaxy, Bioconductor, QIIME</li>
-        <li>Microsoft Office, Google Workspace</li>
-        <li>Slack, Trello, Notion</li>
+        <li>Lenguajes y frameworks: Python, C#, JavaScript, TypeScript, HTML, CSS, SQL, Flask, Django, Node.js, React, Blazor</li>
+        <li>Cloud y despliegue: Docker, AWS, Vercel, Fly.io, Modal, Supabase, Clerk, GitHub Actions / flujos de despliegue basados en Git</li>
+        <li>Herramientas de desarrollo: Git, GitHub, VS Code, Jupyter, RStudio</li>
+        <li>Bioinformática: Galaxy, Bioconductor, QIIME, Nextflow, Snakemake</li>
+        <li>Productividad y colaboración: Microsoft Office, Google Workspace, Slack, Trello, Notion</li>
       </ul>
     </div>
     
@@ -350,9 +357,10 @@ Personal projects | 2023 – Present</p>
       <p><strong>Especialista en IA y Análisis de Datos</strong><br/>DataCloud Technologies and Consulting | Marzo 2025 – Actualidad</p>
       <ul>
 <li>Diseñé y desplegué flujos de backend impulsados por LLMs con structured outputs y validación multietapa.</li>
-<li>Implementé pipelines basados en prompts con almacenamiento en caché, observabilidad y optimización de costos.</li>
-<li>Construí herramientas internas científicas y analíticas utilizando Python, JavaScript y SQL con despliegues cloud-native.</li>
-<li>Trabajé con datos estructurados empresariales garantizando confiabilidad y preparación para producción.</li>
+<li>Implementé pipelines basados en prompts con almacenamiento en caché, observabilidad, optimización de costos y criterios de producción.</li>
+<li>Construí herramientas internas científicas y analíticas utilizando Python, C#/.NET, Blazor, JavaScript/TypeScript y SQL.</li>
+<li>Desplegué y mantuve aplicaciones usando Docker y plataformas cloud como AWS, Supabase, Vercel, Fly.io, Clerk y Modal.</li>
+<li>Trabajé con datos estructurados empresariales garantizando confiabilidad, trazabilidad y preparación para producción.</li>
 </ul>
       <p><strong>Investigador Bioinformático</strong><br/>Endogenomiks | Septiembre 2022 – Actualidad</p>
       <ul>
@@ -367,11 +375,12 @@ Personal projects | 2023 – Present</p>
 <p><strong>Desarrollador</strong><br/>
 Freelance | 2023 – actualidad</p>
 <ul>
-  <li>Diseñé y desarrollé sistemas backend nativos en la nube para plataformas web personalizadas y herramientas internas utilizando Python, JavaScript, SQL y API REST.</li>
-  <li>Creé e implementé aplicaciones en AWS, incluidos servicios backend, bases de datos y flujos de trabajo automatizados.</li>
-  <li>Implementación de procesos de ingestión, transformación y validación de datos para datos empresariales y operativos.</li>
-  <li>Integración de API de terceros y servicios externos, centrándose en la fiabilidad, la observabilidad y la facilidad de mantenimiento.</li>
-  <li>Dirección del desarrollo integral, desde la recopilación de requisitos hasta la implementación y la iteración, trabajando directamente con los clientes.</li>
+  <li>Diseñé y desarrollé sistemas backend nativos en la nube para plataformas web personalizadas y herramientas internas utilizando Python, JavaScript/TypeScript, SQL y APIs REST.</li>
+  <li>Creé e implementé aplicaciones en AWS, Vercel, Fly.io y Supabase, incluyendo servicios backend, bases de datos, autenticación y flujos automatizados.</li>
+  <li>Contenericé y desplegué servicios con Docker y flujos basados en GitHub.</li>
+  <li>Integré APIs de terceros y servicios externos, incluyendo autenticación y plataformas de datos como Clerk y Supabase.</li>
+  <li>Implementé procesos de ingestión, transformación y validación de datos para datos empresariales y operativos.</li>
+  <li>Dirigí el desarrollo integral desde la recopilación de requisitos hasta despliegue e iteración, trabajando directamente con clientes.</li>
 </ul>
 
 
@@ -412,7 +421,7 @@ Freelance | 2023 – actualidad</p>
       <ul>
           <li>Páginas web públicas: <a href="https://catnest-tech.com">Catnest-tech</a>, <a href="https://endogenomiks.com">Endogenomiks</a>,  
   <a href="https://canteraludica.com">Cantera Lúdica (usando shopify)</a>, <a href="https://felumo.com">Felumo (usando AWS y WordPress)</a>,
-   <a href="https://kabutomushi.mx/">Kabutomushi</a></li></li>
+   <a href="https://kabutomushi.mx/">Kabutomushi</a></li>
         <li>Colaborador: <a href="https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html">Curso Plants & Python – Universidad Estatal de Michigan</a></li>
         <li>Proyecto: Renou – Presentado en Emprendedores en Bionegocios 2017 (AGROBIOTEG)</li>
       </ul>
@@ -470,7 +479,7 @@ Freelance | 2023 – actualidad</p>
 
     <div lang-block="de">
       <h1>Pablo Yamild Rosiles Loeza</h1>
-              <p>Aktualisiert: Juni 2025</p>
+              <p>Aktualisiert: Mai 2026</p>
 
       <p>E-mail: pyrosilesl97[arroba]gmail.com 
         <div class="contact-icons">
@@ -492,7 +501,7 @@ Freelance | 2023 – actualidad</p>
           <li class="list-inline-item">
           <a href="https://linktr.ee/pablorosiles" target="_blank">
           <button class="btn" type="button">
-          <img alt="" class="icon" src="link.png" class="icon"/>
+          <img alt="" class="icon" src="link.png"/>
                     
                   </button>
           </a>
@@ -527,12 +536,11 @@ Freelance | 2023 – actualidad</p>
           <div class="section">
             <h2>Technische Werkzeuge & Digitale Fähigkeiten</h2>
             <ul>
-              <li>JavaScript, HTML, CSS, SQL</li>
-              <li>Git, GitHub</li>
-              <li>RStudio, Jupyter, VS Code</li>
-              <li>Galaxy, Bioconductor, QIIME</li>
-              <li>Microsoft Office, Google Workspace</li>
-              <li>Slack, Trello, Notion</li>
+              <li>Python, C#, JavaScript, TypeScript, HTML, CSS, SQL, Flask, Django, Node.js, React, Blazor</li>
+              <li>Docker, AWS, Vercel, Fly.io, Modal, Supabase, Clerk</li>
+              <li>Git, GitHub, VS Code, Jupyter, RStudio</li>
+              <li>Galaxy, Bioconductor, QIIME, Nextflow, Snakemake</li>
+              <li>Microsoft Office, Google Workspace, Slack, Trello, Notion</li>
             </ul>
           </div>
           
@@ -541,7 +549,8 @@ Freelance | 2023 – actualidad</p>
             <p><strong>KI- & Datenanalyse-Spezialist</strong><br/>DataCloud Technologies and Consulting | März 2025 – Heute</p>
             <ul>
               <li>Leitung von KI-basierten Projekten, Integration von ML und prädiktiven Modellen für skalierbare Lösungen.</li>
-              <li>Entwicklung von Weblösungen mit JavaScript, HTML, CSS und SQL für interne Tools und Dashboards.</li>
+              <li>Entwicklung von Weblösungen mit JavaScript/TypeScript, HTML, CSS, SQL, C#/.NET und Blazor für interne Tools und Dashboards.</li>
+              <li>Bereitstellung moderner Anwendungen mit Docker, AWS, Vercel, Fly.io, Supabase, Clerk und Modal.</li>
             </ul>
             <p><strong>Forschungs-Bioinformatiker</strong><br/>Endogenomiks | September 2022 – Heute</p>
             <ul>
@@ -644,7 +653,7 @@ Freelance | 2023 – actualidad</p>
 
 <div lang-block="jp">
 <h1>パブロ・ヤミルド・ロシレス・ロエサ</h1>
-          <p>更新：2025年6月</p>
+          <p>更新：2026年5月</p>
 
 <p>電子メール: pyrosilesl97[アットマーク]gmail.com 
   <div class="contact-icons">
@@ -666,7 +675,7 @@ Freelance | 2023 – actualidad</p>
     <li class="list-inline-item">
     <a href="https://linktr.ee/pablorosiles" target="_blank">
     <button class="btn" type="button">
-    <img alt="" class="icon" src="link.png" class="icon"/>
+    <img alt="" class="icon" src="link.png"/>
               
             </button>
     </a>
@@ -702,12 +711,11 @@ Freelance | 2023 – actualidad</p>
 <div class="section">
   <h2>技術ツールとデジタルスキル</h2>
   <ul>
-    <li>JavaScript、HTML、CSS、SQL</li>
-    <li>Git、GitHub</li>
-    <li>RStudio、Jupyter、VS Code</li>
-    <li>Galaxy、Bioconductor、QIIME</li>
-    <li>Microsoft Office、Google Workspace</li>
-    <li>Slack、Trello、Notion</li>
+    <li>Python、C#、JavaScript、TypeScript、HTML、CSS、SQL、Flask、Django、Node.js、React、Blazor</li>
+    <li>Docker、AWS、Vercel、Fly.io、Modal、Supabase、Clerk</li>
+    <li>Git、GitHub、VS Code、Jupyter、RStudio</li>
+    <li>Galaxy、Bioconductor、QIIME、Nextflow、Snakemake</li>
+    <li>Microsoft Office、Google Workspace、Slack、Trello、Notion</li>
   </ul>
 </div>
 
@@ -716,7 +724,8 @@ Freelance | 2023 – actualidad</p>
   <p><strong>AI・データアナリティクススペシャリスト</strong><br/>DataCloud Technologies and Consulting | 2025年3月 – 現在</p>
   <ul>
     <li>AI主導のプロジェクトをリードし、機械学習と予測モデルを統合してスケーラブルなソリューションを実現。</li>
-    <li>JavaScript、HTML、CSS、SQLを使用して、社内ツールやダッシュボード向けのWebソリューションを実装。</li>
+    <li>JavaScript/TypeScript、HTML、CSS、SQL、C#/.NET、Blazorを使用して、社内ツールやダッシュボード向けのWebソリューションを実装。</li>
+    <li>Docker、AWS、Vercel、Fly.io、Supabase、Clerk、Modalを活用したクラウドアプリケーションのデプロイ。</li>
   </ul>
   <p><strong>バイオインフォマティクス研究者</strong><br/>Endogenomiks | 2022年9月 – 現在</p>
   <ul>
@@ -814,7 +823,7 @@ Freelance | 2023 – actualidad</p>
 
 <div lang-block="zh">
 <h1>帕布罗·亚米尔德·罗西莱斯·洛埃萨</h1>
-          <p>更新：2025年6月</p>
+          <p>更新：2026年5月</p>
 <p>电子邮件: pyrosilesl97[@]gmail.com 
   <div class="contact-icons">
     <ul class="list-inline">
@@ -835,7 +844,7 @@ Freelance | 2023 – actualidad</p>
     <li class="list-inline-item">
     <a href="https://linktr.ee/pablorosiles" target="_blank">
     <button class="btn" type="button">
-    <img alt="" class="icon" src="link.png" class="icon"/>
+    <img alt="" class="icon" src="link.png"/>
               
             </button>
     </a>
@@ -870,12 +879,11 @@ Freelance | 2023 – actualidad</p>
     <div class="section">
       <h2>技术工具与数字技能</h2>
       <ul>
-        <li>JavaScript、HTML、CSS、SQL</li>
-        <li>Git、GitHub</li>
-        <li>RStudio、Jupyter、VS Code</li>
-        <li>Galaxy、Bioconductor、QIIME</li>
-        <li>Microsoft Office、Google Workspace</li>
-        <li>Slack、Trello、Notion</li>
+        <li>Python、C#、JavaScript、TypeScript、HTML、CSS、SQL、Flask、Django、Node.js、React、Blazor</li>
+        <li>Docker、AWS、Vercel、Fly.io、Modal、Supabase、Clerk</li>
+        <li>Git、GitHub、VS Code、Jupyter、RStudio</li>
+        <li>Galaxy、Bioconductor、QIIME、Nextflow、Snakemake</li>
+        <li>Microsoft Office、Google Workspace、Slack、Trello、Notion</li>
       </ul>
     </div>
     
@@ -884,7 +892,8 @@ Freelance | 2023 – actualidad</p>
       <p><strong>人工智能与数据分析专家</strong><br/>DataCloud Technologies and Consulting | 2025年3月 – 现在</p>
       <ul>
         <li>领导AI项目，结合机器学习和预测建模，开发可扩展解决方案。</li>
-        <li>使用 JavaScript、HTML、CSS 和 SQL 开发公司内部工具和仪表板的网页解决方案。</li>
+        <li>使用 JavaScript/TypeScript、HTML、CSS、SQL、C#/.NET 和 Blazor 开发公司内部工具和仪表板的网页解决方案。</li>
+        <li>使用 Docker、AWS、Vercel、Fly.io、Supabase、Clerk 和 Modal 部署现代云应用。</li>
       </ul>
       <p><strong>生物信息学研究员</strong><br/>Endogenomiks | 2022年9月 – 现在</p>
       <ul>
