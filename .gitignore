@@ -1,0 +1,28 @@
+# Dependencies & build
+node_modules/
+dist/
+.vite/
+
+# Env — never commit secrets (.env.example is the template)
+.env
+.env.*
+!.env.example
+
+# Cloudflare Wrangler local state
+.wrangler/
+
+# Local editor / agent tooling
+.claude/
+.cursor/
+*.local
+
+# Logs & caches
+*.log
+*.tsbuildinfo
+npm-debug.log*
+.turbo/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini

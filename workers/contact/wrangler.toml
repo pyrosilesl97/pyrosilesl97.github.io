@@ -1,0 +1,14 @@
+# Cloudflare Worker that verifies Turnstile and forwards messages to Telegram.
+# Secrets (set with `wrangler secret put <NAME>`):
+#   TT_SECRET_KEY  — Turnstile secret key
+#   BOT_ID         — Telegram bot token (from @BotFather)
+#   CHAT_ID        — your Telegram chat / group id
+
+name = "portfolio-contact"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+# Optional: restrict which origins may call this Worker (comma-separated).
+# Leave empty during first deploy, then set after you know your Pages URL.
+# [vars]
+# ALLOWED_ORIGINS = "https://pyrosilesl97.github.io,http://localhost:5173"
