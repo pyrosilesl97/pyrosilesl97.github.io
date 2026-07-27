@@ -31,7 +31,7 @@ export const zh: Translation = {
     location: '墨西哥 莫雷利亚 · 面向全球远程',
     ctaPrimary: '联系我',
     ctaSecondary: '查看作品',
-    updated: '更新于 2026 年 5 月',
+    updated: '更新于 2026 年 7 月',
   },
   about: {
     title: '关于我',

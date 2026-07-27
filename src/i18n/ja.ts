@@ -31,7 +31,7 @@ export const ja: Translation = {
     location: 'メキシコ・モレリア · フルリモート対応',
     ctaPrimary: 'お問い合わせ',
     ctaSecondary: '制作物を見る',
-    updated: '2026年5月更新',
+    updated: '2026年7月更新',
   },
   about: {
     title: '自己紹介',

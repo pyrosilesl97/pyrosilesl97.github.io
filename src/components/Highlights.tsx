@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useLanguage } from '../hooks/useLanguage';
 import { ChevronDownIcon, StarIcon } from './Icons';
 import { Section } from './Section';
@@ -10,6 +10,16 @@ export function Highlights() {
   const [expanded, setExpanded] = useState(false);
 
   const items = expanded ? t.highlights.items : t.highlights.items.slice(0, PREVIEW_COUNT);
+
+  // Newly mounted cards start at opacity:0 via [data-reveal]. The global
+  // IntersectionObserver only re-binds on language change, so without this
+  // the extra items stay invisible until something else re-triggers reveal.
+  useEffect(() => {
+    if (!expanded) return;
+    document
+      .querySelectorAll<HTMLElement>('#highlights [data-reveal]:not(.is-visible)')
+      .forEach((node) => node.classList.add('is-visible'));
+  }, [expanded, items]);
 
   return (
     <Section id="highlights" kicker={t.highlights.kicker} title={t.highlights.title} alt>

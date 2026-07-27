@@ -31,7 +31,7 @@ export const de: Translation = {
     location: 'Morelia, Mexiko · Weltweit remote',
     ctaPrimary: 'Kontakt aufnehmen',
     ctaSecondary: 'Arbeiten ansehen',
-    updated: 'Aktualisiert im Mai 2026',
+    updated: 'Aktualisiert im Juli 2026',
   },
   about: {
     title: 'Über mich',

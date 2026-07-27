@@ -31,7 +31,7 @@ export const es: Translation = {
     location: 'Morelia, México · Remoto a nivel mundial',
     ctaPrimary: 'Contáctame',
     ctaSecondary: 'Ver mi trabajo',
-    updated: 'Actualizado en mayo 2026',
+    updated: 'Actualizado en julio 2026',
   },
   about: {
     title: 'Sobre mí',
