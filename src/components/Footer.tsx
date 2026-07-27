@@ -13,7 +13,6 @@ export function Footer() {
             <div>
               © {new Date().getFullYear()} Pablo Yamild Rosiles Loeza. {t.footer.rights}
             </div>
-            <div>{t.footer.builtWith}</div>
           </div>
         </div>
 
