@@ -247,7 +247,7 @@ export const es: Translation = {
   contact: {
     title: 'Construyamos algo',
     kicker: 'Contacto',
-    body: 'Abierto a proyectos de full-stack, ingeniería de IA y bioinformática, freelance o de tiempo completo. Déjame un mensaje y te respondo.',
+    body: 'Contáctame para revisión de proyectos full-stack, ingeniería de IA y bioinformática. Déjame un mensaje y te respondo.',
     nameLabel: 'Nombre',
     emailLabel: 'Tu correo',
     messageLabel: 'Mensaje',
