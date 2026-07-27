@@ -263,6 +263,5 @@ export const de: Translation = {
   },
   footer: {
     rights: 'Alle Rechte vorbehalten.',
-    builtWith: 'Gebaut mit React, TypeScript und Vite.',
   },
 };

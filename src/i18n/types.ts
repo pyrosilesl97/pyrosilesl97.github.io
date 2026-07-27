@@ -95,5 +95,5 @@ export interface Translation {
     turnstileError: string;
     configError: string;
   };
-  footer: { rights: string; builtWith: string };
+  footer: { rights: string };
 }

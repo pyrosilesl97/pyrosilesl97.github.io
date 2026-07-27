@@ -263,6 +263,5 @@ export const zh: Translation = {
   },
   footer: {
     rights: '保留所有权利。',
-    builtWith: '使用 React、TypeScript 与 Vite 构建。',
   },
 };

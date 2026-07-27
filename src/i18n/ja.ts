@@ -263,6 +263,5 @@ export const ja: Translation = {
   },
   footer: {
     rights: 'All rights reserved.',
-    builtWith: 'React・TypeScript・Vite で構築。',
   },
 };
