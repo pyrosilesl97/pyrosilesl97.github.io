@@ -40,7 +40,7 @@ export const zh: Translation = {
     stats: [
       { value: '8+', label: '年科研软件开发经验' },
       { value: '6', label: '同行评审论文' },
-      { value: '6', label: '已上线的公开 Web 平台' },
+      { value: '7', label: '已上线的公开 Web 平台' },
       { value: '5', label: '掌握的语言' },
     ],
   },
@@ -179,6 +179,8 @@ export const zh: Translation = {
         '现代桌游电商网站，搭建于 Shopify，并编写脚本实现库存自动化与店铺运营流程。',
       felumo:
         '为音乐节打造的平台，使用 TypeScript、React 和 Vite 构建并部署在 Vercel 上，集成 Mercado Pago 支付、票务管理以及活动现场的实时互动功能。',
+      estudiojade:
+        '视觉识别与平面设计工作室网站。作品集、服务与联系方式，使用 Next.js 构建并部署在 Vercel 上。',
       kabutomushi:
         '日式餐厅网站，配有 Flask 管理后台，店主可自行编辑菜单。',
       plantsandpython:

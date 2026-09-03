@@ -40,7 +40,7 @@ export const de: Translation = {
     stats: [
       { value: '8+', label: 'Jahre wissenschaftliche Software' },
       { value: '6', label: 'Peer-Review-Publikationen' },
-      { value: '6', label: 'Öffentliche Web-Plattformen in Produktion' },
+      { value: '7', label: 'Öffentliche Web-Plattformen in Produktion' },
       { value: '5', label: 'Sprachen' },
     ],
   },
@@ -179,6 +179,8 @@ export const de: Translation = {
         'Ecommerce für moderne Brettspiele auf Shopify, mit eigenen Skripten für Bestandsautomatisierung und Shop-Workflows.',
       felumo:
         'Festival-Plattform mit TypeScript, React und Vite, bereitgestellt auf Vercel. Integriert Mercado-Pago-Zahlungen, Ticketverwaltung und Live-Interaktionen während der Veranstaltung.',
+      estudiojade:
+        'Website eines Studios für visuelle Identität und Grafikdesign. Portfolio, Leistungen und Kontakt — gebaut mit Next.js und deployed auf Vercel.',
       kabutomushi:
         'Website für ein japanisches Restaurant mit Flask-Adminoberfläche, über die die Inhaber ihre Speisekarte selbst pflegen.',
       plantsandpython:

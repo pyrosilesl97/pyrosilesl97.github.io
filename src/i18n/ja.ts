@@ -40,7 +40,7 @@ export const ja: Translation = {
     stats: [
       { value: '8+', label: '科学ソフトウェア開発歴（年）' },
       { value: '6', label: '査読付き論文' },
-      { value: '6', label: '本番稼働中の公開Webプラットフォーム' },
+      { value: '7', label: '本番稼働中の公開Webプラットフォーム' },
       { value: '5', label: '使用言語' },
     ],
   },
@@ -179,6 +179,8 @@ export const ja: Translation = {
         'モダンボードゲームの EC サイト。Shopify 上に構築し、在庫自動化と店舗運用のための独自スクリプトを実装。',
       felumo:
         'TypeScript・React・Vite で構築し Vercel にデプロイしたフェスティバル向けプラットフォーム。Mercado Pago 決済、チケット管理、イベント中のライブ演出機能を統合。',
+      estudiojade:
+        'ビジュアルアイデンティティとグラフィックデザインのスタジオ向けサイト。ポートフォリオ・サービス・お問い合わせを Next.js で構築し Vercel にデプロイ。',
       kabutomushi:
         '日本食レストランのサイト。Flask の管理画面から、オーナー自身がメニューを編集できる仕組みを実装。',
       plantsandpython:

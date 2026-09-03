@@ -125,6 +125,13 @@ export const PROJECTS: ProjectMeta[] = [
     logo: 'logos/felumo.png',
   },
   {
+    id: 'estudiojade',
+    name: 'Estudio Jade',
+    url: 'https://www.estudiojade.com/',
+    stack: ['TypeScript', 'Next.js', 'React', 'Vercel'],
+    logo: 'logos/estudiojade.png',
+  },
+  {
     id: 'kabutomushi',
     name: 'Kabuto Mushi Ramen Ya',
     url: 'https://kabutomushi.mx/',

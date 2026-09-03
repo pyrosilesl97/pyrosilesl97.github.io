@@ -40,7 +40,7 @@ export const en: Translation = {
     stats: [
       { value: '8+', label: 'Years building scientific software' },
       { value: '6', label: 'Peer-reviewed publications' },
-      { value: '6', label: 'Public web platforms in production' },
+      { value: '7', label: 'Public web platforms in production' },
       { value: '5', label: 'Languages spoken' },
     ],
   },
@@ -179,6 +179,8 @@ export const en: Translation = {
         'Ecommerce for modern board games on Shopify, with custom scripts for inventory automation and store workflows.',
       felumo:
         'Festival platform built with TypeScript, React and Vite, deployed on Vercel. It integrates Mercado Pago payments, ticket management and live interactive dynamics during the event.',
+      estudiojade:
+        'Site for a visual identity and graphic design studio. Portfolio, services and contact, built with Next.js and deployed on Vercel.',
       kabutomushi:
         'Site for a Japanese restaurant, with a Flask admin interface that lets the owners edit the menu themselves.',
       plantsandpython:
