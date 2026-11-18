@@ -40,7 +40,7 @@ export const en: Translation = {
     stats: [
       { value: '8+', label: 'Years building scientific software' },
       { value: '6', label: 'Peer-reviewed publications' },
-      { value: '7', label: 'Public web platforms in production' },
+      { value: '9', label: 'Public web platforms in production' },
       { value: '5', label: 'Languages spoken' },
     ],
   },
@@ -181,6 +181,10 @@ export const en: Translation = {
         'Festival platform built with TypeScript, React and Vite, deployed on Vercel. It integrates Mercado Pago payments, ticket management and live interactive dynamics during the event.',
       estudiojade:
         'Site for a visual identity and graphic design studio. Portfolio, services and contact, built with Next.js and deployed on Vercel.',
+      aleamedics:
+        'Site for a high-specialty medical center in Hermosillo. Specialties, physicians and contact, built with Next.js and deployed on Vercel.',
+      indiemakeupmx:
+        'Ecommerce for indie makeup brands in Mexico. Being built with Next.js, Vercel and Neon for catalog, orders and inventory.',
       kabutomushi:
         'Site for a Japanese restaurant, with a Flask admin interface that lets the owners edit the menu themselves.',
       plantsandpython:

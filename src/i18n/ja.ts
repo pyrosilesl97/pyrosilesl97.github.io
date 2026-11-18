@@ -40,7 +40,7 @@ export const ja: Translation = {
     stats: [
       { value: '8+', label: '科学ソフトウェア開発歴（年）' },
       { value: '6', label: '査読付き論文' },
-      { value: '7', label: '本番稼働中の公開Webプラットフォーム' },
+      { value: '9', label: '本番稼働中の公開Webプラットフォーム' },
       { value: '5', label: '使用言語' },
     ],
   },
@@ -181,6 +181,10 @@ export const ja: Translation = {
         'TypeScript・React・Vite で構築し Vercel にデプロイしたフェスティバル向けプラットフォーム。Mercado Pago 決済、チケット管理、イベント中のライブ演出機能を統合。',
       estudiojade:
         'ビジュアルアイデンティティとグラフィックデザインのスタジオ向けサイト。ポートフォリオ・サービス・お問い合わせを Next.js で構築し Vercel にデプロイ。',
+      aleamedics:
+        'エルモシージョの高度専門医療センター向けサイト。診療科・医師紹介・お問い合わせを Next.js で構築し Vercel にデプロイ。',
+      indiemakeupmx:
+        'メキシコ向けインディーメイクアップブランドの EC。Next.js・Vercel・Neon でカタログ・注文・在庫を構築中。',
       kabutomushi:
         '日本食レストランのサイト。Flask の管理画面から、オーナー自身がメニューを編集できる仕組みを実装。',
       plantsandpython:

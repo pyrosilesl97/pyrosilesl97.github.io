@@ -40,7 +40,7 @@ export const de: Translation = {
     stats: [
       { value: '8+', label: 'Jahre wissenschaftliche Software' },
       { value: '6', label: 'Peer-Review-Publikationen' },
-      { value: '7', label: 'Öffentliche Web-Plattformen in Produktion' },
+      { value: '9', label: 'Öffentliche Web-Plattformen in Produktion' },
       { value: '5', label: 'Sprachen' },
     ],
   },
@@ -181,6 +181,10 @@ export const de: Translation = {
         'Festival-Plattform mit TypeScript, React und Vite, bereitgestellt auf Vercel. Integriert Mercado-Pago-Zahlungen, Ticketverwaltung und Live-Interaktionen während der Veranstaltung.',
       estudiojade:
         'Website eines Studios für visuelle Identität und Grafikdesign. Portfolio, Leistungen und Kontakt — gebaut mit Next.js und deployed auf Vercel.',
+      aleamedics:
+        'Website für ein medizinisches Hochspezialisierungszentrum in Hermosillo. Fachrichtungen, Ärztinnen und Ärzte sowie Kontakt — Next.js auf Vercel.',
+      indiemakeupmx:
+        'Ecommerce für Indie-Makeup-Marken in Mexiko. Im Aufbau mit Next.js, Vercel und Neon für Katalog, Bestellungen und Inventar.',
       kabutomushi:
         'Website für ein japanisches Restaurant mit Flask-Adminoberfläche, über die die Inhaber ihre Speisekarte selbst pflegen.',
       plantsandpython:

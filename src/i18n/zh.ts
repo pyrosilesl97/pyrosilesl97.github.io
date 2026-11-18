@@ -40,7 +40,7 @@ export const zh: Translation = {
     stats: [
       { value: '8+', label: '年科研软件开发经验' },
       { value: '6', label: '同行评审论文' },
-      { value: '7', label: '已上线的公开 Web 平台' },
+      { value: '9', label: '已上线的公开 Web 平台' },
       { value: '5', label: '掌握的语言' },
     ],
   },
@@ -181,6 +181,10 @@ export const zh: Translation = {
         '为音乐节打造的平台，使用 TypeScript、React 和 Vite 构建并部署在 Vercel 上，集成 Mercado Pago 支付、票务管理以及活动现场的实时互动功能。',
       estudiojade:
         '视觉识别与平面设计工作室网站。作品集、服务与联系方式，使用 Next.js 构建并部署在 Vercel 上。',
+      aleamedics:
+        '埃莫西约高专科医疗中心网站。专科、医师与联系方式，使用 Next.js 构建并部署在 Vercel 上。',
+      indiemakeupmx:
+        '墨西哥独立彩妆品牌电商。正在用 Next.js、Vercel 与 Neon 构建目录、订单与库存。',
       kabutomushi:
         '日式餐厅网站，配有 Flask 管理后台，店主可自行编辑菜单。',
       plantsandpython:

@@ -132,6 +132,20 @@ export const PROJECTS: ProjectMeta[] = [
     logo: 'logos/estudiojade.png',
   },
   {
+    id: 'aleamedics',
+    name: 'ALEA Medics',
+    url: 'https://www.aleamedics.com/',
+    stack: ['TypeScript', 'Next.js', 'React', 'Vercel'],
+    logo: 'logos/aleamedics.png',
+  },
+  {
+    id: 'indiemakeupmx',
+    name: 'IndieMakeupMX',
+    url: 'https://www.indiemakeupmx.com/',
+    stack: ['TypeScript', 'Next.js', 'React', 'Vercel', 'Neon'],
+    logo: 'logos/indiemakeupmx.png',
+  },
+  {
     id: 'kabutomushi',
     name: 'Kabuto Mushi Ramen Ya',
     url: 'https://kabutomushi.mx/',
